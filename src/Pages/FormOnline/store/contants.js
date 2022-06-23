@@ -1,0 +1,13 @@
+const NS_FORM_ONLINE = "formOnline";
+const SET_LOADING_FORM_ONLINE = `${NS_FORM_ONLINE}/setLoadingFormOnline`;
+const GET_ALL_FORM_ONLINE = `${NS_FORM_ONLINE}/getAllFormOnline`;
+const SAVE_ALL_FORM_ONLINE = `${NS_FORM_ONLINE}/saveAllFormOnline`;
+const GET_DETAIL_FORM_ONLINE = `${NS_FORM_ONLINE}/getDetailFormOnline`;
+const SAVE_DETAIL_FORM_ONLINE = `${NS_FORM_ONLINE}/saveDetailFormOnline`;
+export {
+  SET_LOADING_FORM_ONLINE,
+  GET_ALL_FORM_ONLINE,
+  SAVE_ALL_FORM_ONLINE,
+  GET_DETAIL_FORM_ONLINE,
+  SAVE_DETAIL_FORM_ONLINE,
+};

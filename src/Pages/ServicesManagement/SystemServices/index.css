@@ -1,0 +1,30 @@
+.system-services {
+  margin: 20px 40px;
+}
+.tb-system-services {
+  float: right;
+  width: 100%;
+}
+
+.search-system-services {
+  width: 80% !important;
+  border-radius: 0px !important;
+  float: left;
+}
+.left-system-services {
+  width: 600px;
+}
+.btn-system-services {
+  width: 44px !important;
+  height: 44px !important;
+}
+
+.header-system-services {
+  display: flex;
+  width: 1800px;
+}
+
+.drawer-create {
+  display: flex !important;
+  flex-flow: row wrap;
+}

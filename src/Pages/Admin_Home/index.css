@@ -1,0 +1,36 @@
+.form-online {
+  margin: 20px 40px;
+}
+.tb-form-online {
+  float: right;
+  width: 100%;
+}
+
+.search-form-online {
+  width: 80% !important;
+  border-radius: 0px !important;
+  float: left;
+}
+
+.btn-form-online {
+  width: 44px !important;
+  height: 44px !important;
+}
+
+.header-form-online {
+  display: flex;
+  width: 1600px;
+}
+
+.date-form-online {
+  width: 500px;
+  position: absolute;
+  right: 40px;
+}
+.date-form-online lable {
+  display: flex;
+  padding: 6px;
+}
+.left-form-online {
+  width: 600px;
+}

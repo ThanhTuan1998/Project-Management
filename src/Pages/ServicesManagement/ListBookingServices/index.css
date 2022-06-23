@@ -1,0 +1,58 @@
+.booking-services {
+  margin: 20px 40px;
+}
+.tb-booking-services {
+  float: right;
+  width: 100%;
+}
+
+.search-booking-services {
+  width: 80% !important;
+  border-radius: 0px !important;
+  float: left;
+}
+.left-booking-services {
+  width: 600px;
+}
+.btn-booking-services {
+  width: 0 !important;
+  height: 0 !important;
+  position: absolute;
+  top: 5px;
+}
+.ant-btn {
+  background: #fafafa !important;
+}
+.header-booking-services {
+  display: flex;
+  width: 1600px;
+}
+
+.date-booking-services {
+  width: 500px;
+  position: absolute;
+  right: 40px;
+}
+.date-booking-services lable {
+  display: flex;
+  padding: 6px;
+}
+.ant-btn-icon-only > .anticon {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  left: -56px;
+  background: none !important;
+}
+.ant-btn {
+  background: #fff !important;
+}
+.ant-btn > .anticon + span,
+.ant-btn > span + .anticon {
+  margin-left: -6px;
+}
+.ant-menu-inline.ant-menu-root .ant-menu-item > *,
+.ant-menu-inline.ant-menu-root .ant-menu-submenu-title > * {
+  color: orange !important;
+}

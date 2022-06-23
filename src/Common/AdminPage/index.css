@@ -1,0 +1,297 @@
+.ant-layout-sider-children {
+  /* height: 100%; */
+  padding-top: 50px !important;
+  height: 100vh !important;
+}
+.ant-layout-sider {
+  background: #ffffff !important;
+}
+/* .logo {
+  background-image: url("../../../public/images/logo.jpg");
+  width: 160px;
+  height: 150px;
+  background-size: cover;
+} */
+#components-layout-demo-custom-trigger .trigger {
+  padding: 0 24px;
+  font-size: 18px;
+  line-height: 64px;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+#components-layout-demo-custom-trigger .logo {
+  height: 32px;
+  margin: 16px;
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
+}
+.site-layout .site-layout-background {
+  background: #fff;
+  z-index: 1;
+}
+.ant-layout-sider .ant-layout-sider-dark .ant-layout-sider-collapsed {
+  flex: 0 0 125px !important;
+  max-width: 100px !important;
+  min-width: 79px !important;
+  width: 92px !important;
+}
+.title {
+  padding-left: 20px;
+  font-size: 28px;
+  font-weight: 300;
+}
+.anticon svg {
+  font-size: 33px;
+  color: none !important;
+}
+.ant-menu:not(.ant-menu-horizontal) .ant-menu-item-selected {
+  background-color: rgb(247 233 233) !important;
+}
+.ant-menu-vertical .ant-menu-item::after,
+.ant-menu-vertical-left .ant-menu-item::after,
+.ant-menu-vertical-right .ant-menu-item::after,
+.ant-menu-inline .ant-menu-item::after {
+  border-right: 3px solid orange !important;
+}
+.ant-menu-item-selected {
+  color: orange !important;
+}
+.menu {
+  float: right;
+  margin-right: 17px;
+  cursor: pointer;
+}
+.global {
+  float: right;
+  margin-right: 20px;
+  margin-top: 15px;
+  cursor: pointer;
+}
+.ant-layout-header {
+  margin: 0 25px !important;
+}
+.ant-btn:hover,
+.ant-btn:focus {
+  color: orange !important;
+  border-color: orange !important;
+}
+.ant-table-wrapper {
+  clear: both;
+  max-width: 100%;
+  padding: 20px 0;
+}
+.ant-menu-item-selected a,
+.ant-menu-item-selected a:hover {
+  color: orange !important;
+}
+.ant-menu-item a:hover {
+  color: black !important;
+}
+.ant-layout-sider,
+.ant-layout-sider-dark {
+  flex: 0 0 415px !important;
+  max-width: 482px !important;
+  min-width: 373px !important;
+}
+.ant-layout-sider .ant-layout-sider-dark,
+.ant-layout-sider-collapsed {
+  flex: 0 0 120px !important;
+  max-width: 131px !important;
+  min-width: 80px !important;
+}
+.btn-search {
+  width: 50% !important;
+  margin: 70px -85px;
+}
+.ant-input-group > .ant-input:first-child,
+.ant-input-group-addon:first-child {
+  position: relative !important;
+}
+.ant-input-search > .ant-input-group > .ant-input-group-addon:last-child {
+  position: absolute !important;
+  right: 0 !important;
+  top: 3px !important;
+  left: 86% !important;
+}
+.ant-btn {
+  border: none !important;
+  color: orange !important;
+}
+.ant-btn-primary {
+  border: none !important;
+  background: none !important;
+  color: #fff;
+}
+.ant-btn-primary:focus {
+  background: none;
+}
+.ant-tabs-top > .ant-tabs-nav::before,
+.ant-tabs-bottom > .ant-tabs-nav::before,
+.ant-tabs-top > div > .ant-tabs-nav::before,
+.ant-tabs-bottom > div > .ant-tabs-nav::before {
+  border-bottom: none !important;
+}
+.ant-tabs {
+  box-sizing: border-box;
+  margin: -46px 1px !important;
+  padding: 45px 12px !important;
+}
+.ant-tabs-tab:hover {
+  color: orange !important;
+}
+.ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+  color: orange !important;
+  text-shadow: 0 0 0.25px currentcolor;
+  font-size: 20px;
+}
+.ant-tabs-ink-bar {
+  background: orange !important;
+}
+.ant-menu-item a {
+  font-size: 25px !important;
+  font-weight: 100;
+  color: rgb(61, 58, 58) !important;
+}
+.ant-menu-title-content {
+  font-size: 16px !important;
+  font-weight: 300;
+}
+.ant-breadcrumb-link span {
+  font-size: 16px !important;
+}
+.ant-tabs-tab-btn {
+  font-size: 18px !important;
+}
+.ant-btn-primary {
+  color: black !important;
+  box-shadow: none !important;
+}
+.ant-select:not(.ant-select-customize-input) .ant-select-selector {
+  height: 50px !important;
+  border-radius: 10px !important;
+}
+.ant-select-dropdown {
+  border-radius: 10px !important;
+}
+.ant-radio-inner::after {
+  background-color: orange !important;
+}
+.ant-radio-checked .ant-radio-inner {
+  border-color: orange !important;
+}
+.ant-select-single .ant-select-selector .ant-select-selection-item,
+.ant-select-single .ant-select-selector .ant-select-selection-placeholder {
+  line-height: 50px !important;
+}
+.ant-select:not(.ant-select-disabled):hover .ant-select-selector {
+  border-color: orange !important;
+}
+.ant-select-single.ant-select-show-arrow .ant-select-selection-item,
+.ant-select-single.ant-select-show-arrow .ant-select-selection-placeholder {
+  font-size: 20px !important;
+}
+.ant-table-tbody > tr > td {
+  border-bottom: 1px solid #f0f0f0;
+  transition: background 0.3s;
+  font-size: 20px;
+}
+.ant-pagination-item-active {
+  font-weight: 500;
+  background: #fff;
+  border-color: none !important;
+}
+.ant-table-thead > tr > th {
+  font-size: 20px !important;
+}
+.ant-table table {
+  padding: 30px 12px !important;
+}
+.btn-edit {
+  border: none !important;
+  background: none !important;
+  color: orange;
+}
+.ant-pagination-item-active {
+  border-color: orange !important;
+}
+.ant-popover-message-title {
+  padding: 5px 29px !important;
+  font-size: 23px;
+}
+.span-style {
+  font-size: 30px;
+}
+.ant-spin-dot-item {
+  background-color: orange !important;
+}
+/* .ant-btn > span {
+    font-size: 28px !important;
+  }
+  .ant-modal-title {
+    font-size: 31px !important;
+  } */
+.ant-input {
+  font-size: 22px !important;
+}
+.ant-btn > span {
+  font-size: 21px !important;
+}
+.style-button {
+  display: flex;
+  align-items: center;
+}
+.ant-btn:hover,
+.ant-btn:focus,
+.ant-btn:active {
+  background: transparent !important;
+}
+.style-button {
+  position: relative;
+  padding: 44px 0 !important;
+}
+.ant-breadcrumb {
+  position: relative !important;
+}
+.btn-create {
+  position: absolute;
+  top: 8%;
+  right: 40px;
+  margin: 56px !important;
+}
+.ant-btn {
+  background: #fff !important;
+}
+.btn-form-online {
+  margin: 1px -54px !important;
+}
+.style-span {
+  border-radius: 6px;
+  padding: 12px 16px;
+  background: orange !important;
+  color: white !important;
+}
+.logo {
+  background-image: url("../../../public/images/Estella_logo_baby_gifts_140x.webp");
+  height: 100px;
+  background-repeat: no-repeat;
+  background-position: 36px 20px;
+}
+.ant-modal-content {
+  position: relative;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 0;
+  border-radius: 2px;
+  box-shadow: 0 3px 6px -4px rgb(0 0 0 / 12%), 0 6px 16px 0 rgb(0 0 0 / 8%),
+    0 9px 28px 8px rgb(0 0 0 / 5%);
+  pointer-events: auto;
+  width: 700px;
+}
+.ant-space-align-center {
+  align-items: center;
+  padding: 10px;
+}
